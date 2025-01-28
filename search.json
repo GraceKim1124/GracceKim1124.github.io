@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Amazing Portfolio",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am Grace Kim I am from South Korea I am studying master in Business Analytics in UC Irvine I studied French and literature in Bacheolor\n\n\nI like to watch sunsets and going yoga I love to play tennis\n\n\n’’’[python}\n’’’"
+  },
+  {
+    "objectID": "about.html#what-do-i-like",
+    "href": "about.html#what-do-i-like",
+    "title": "About",
+    "section": "",
+    "text": "I like to watch sunsets and going yoga I love to play tennis\n\n\n’’’[python}\n’’’"
+  },
+  {
+    "objectID": "project/visulization/index.html",
+    "href": "project/visulization/index.html",
+    "title": "My Amazing Portfolio",
+    "section": "",
+    "text": "title: “Your Name” image: images/headshot.jpeg # replace with the link to your headshot about: template: jolla # see additional templates here https://quarto.org/docs/websites/website-about.html links: # add links to your various social profiles - icon: linkedin text: LinkedIn href: https://www.linkedin.com/in/ - icon: github text: Github href: https://github.com/"
+  }
+]
